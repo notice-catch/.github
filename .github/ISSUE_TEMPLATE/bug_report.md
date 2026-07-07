@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: 제품에서 발견된 오류나 버그를 제보해 주세요.
+about: 기능에서 발견된 오류나 버그를 제보해 주세요.
 title: '[BUG] '
 labels: bug
 assignees: ''
